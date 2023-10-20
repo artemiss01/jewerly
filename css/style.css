@@ -304,13 +304,6 @@ h6 {
 }
 .row-header__logo_black-color {
   fill: #272727;
-  mix-blend-mode: normal;
-}
-@media (max-width: 35.93625em) {
-  .row-header__logo_black-color {
-    fill: #fff;
-    mix-blend-mode: difference;
-  }
 }
 .row-header__logo img {
   max-width: 258px;
